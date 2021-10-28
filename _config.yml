@@ -83,14 +83,6 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
-# Analytics
-analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "UA-165194559-1"
-    anonymize_ip         : # true, false (default)
-
-
 # Site Author
 author:
   name             : "Jagadeeswar Ramanukolanu"
@@ -101,7 +93,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "r.Jagadeeswar2000@gmail.com"
+      url: "mailto:r.jagadeeswar2000@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
