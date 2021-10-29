@@ -5,10 +5,10 @@ header:
   teaser: /img/Anti.png
 ribbon: MidnightBlue
 categories:
-  - Revese Enginnering 
+  - Reverse Enginnering 
 toc: true
 ---
-# Introducation 
+# Introduction 
 
 This article focuses on how to detect debug strings outputted by an application that calls Win32 API OutputDebugString.
 And how bypass it using a debugger

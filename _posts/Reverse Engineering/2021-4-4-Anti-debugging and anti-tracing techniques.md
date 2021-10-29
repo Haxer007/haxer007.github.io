@@ -5,7 +5,7 @@ header:
   teaser: /img/Anti.png
 ribbon: MidnightBlue
 categories:
-  - Revese Enginnering 
+  - Reverse Enginnering 
 toc: true
 ---
 1--> Malware authors use Anti-Reverse Engineering Techniques a lot to impede the reverse engineering process of the malware and malware analyst runs malware samples in debugger to analyze the functionality and behavoir.

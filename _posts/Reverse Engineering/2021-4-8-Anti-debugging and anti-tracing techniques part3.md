@@ -5,10 +5,10 @@ header:
   teaser: /img/Anti.png
 ribbon: MidnightBlue
 categories:
-  - Revese Enginnering 
+  - Reverse Enginnering 
 toc: true
 ---
-# Introducation 
+# Introduction 
 
 Malicious software can detect that it is running in a debugger because all debuggers have been added to the operation, and it masks the malicious behaviour to avoid detection by malware analysts trying to debug it. In this section, I'll go through some popular anti-debugging techniques for detecting the existence of a debugger.
 
